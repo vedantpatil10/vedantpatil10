@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Vedant Patil — a passionate software developer with expertise in full-stack development, cloud technologies, and system design.
 
-<!--
-**vedantpatil10/vedantpatil10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Skills:
 
-Here are some ideas to get you started:
+Languages: C#, JavaScript
+Frameworks/Technologies: .NET Core, React
+Database: SQL Server, PostgreSQL, Database Design
+Tools: Docker, Jenkins, AWS
+🔍 What I do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Requirement Gathering: Collaborating with stakeholders to understand needs and deliver effective solutions.
+Database Design: Creating efficient, scalable, and well-structured databases with SQL Server and PostgreSQL.
+Full-Stack Development: Building seamless applications using React and .NET Core.
+Cloud & DevOps: Managing deployments and automating workflows with AWS, Docker, and Jenkins.
+🚀 I'm passionate about creating robust, high-performance applications and ensuring smooth integrations through effective design and streamlined CI/CD processes.
+
+Let's connect and collaborate! Feel free to explore my repositories.
