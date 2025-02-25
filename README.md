@@ -2,7 +2,7 @@
 
 💻 Skills:
 
-Languages: C#, JavaScript
+*Languages*: C#, JavaScript
 Frameworks/Technologies: .NET Core, React
 Database: SQL Server, PostgreSQL, Database Design
 Tools: Docker, Jenkins, AWS
